@@ -1,0 +1,120 @@
+.background{
+    width: 600px;
+    height: 1060px;
+    margin: 200px auto;
+    background-image: url(image2/Background.png);
+}
+.title{
+    font-size: 24px;
+    text-align: center;
+    color: #cfe8eb;
+    top: 32px;
+    left: 10px;
+}
+.header{
+    width: 600px;
+    height: 108px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.iconfont_left{
+    width: 49px;
+    height: 49px;
+}
+.iconfont_right{
+    width: 50px;
+    height: 50px;
+}
+.iconfont_plus{
+    width: 150px;
+    height: 150px;
+    font-size: 300px;
+}
+.photo{
+    align-items: center;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    margin: 60px auto 36px;
+}
+.plus{
+    text-align: center;
+    margin: -158px auto 50px;
+}
+.text{
+    text-align: center;
+    font-size: 20px;
+    top: 10px;
+    color: #cfe8eb;
+    margin: -38px auto 50px;
+}
+.massage{
+    width: 467px;
+    height: 492px;
+    margin: 100px auto;
+}
+.firstname{
+    font-size: 24px;
+    color: white;
+}
+.lastname{
+    font-size: 24px;
+    color: white;
+}
+.emailaddress{
+    font-size: 24px;
+    color: white;
+}
+
+.password{
+    font-size: 24px;
+    color: white;
+}
+input{
+    background-color: transparent;
+    outline: none;
+    border: 0;
+    border-bottom: 3px solid #fff;
+    width: 465px;
+    height: 25px;
+}
+.show{
+    color: greenyellow;
+    margin: -25px auto;
+    font-size: 20px;
+    position: relative;
+    left: 430px;
+    top: 10px;
+}
+.button1{
+    height: 74px;
+    width: 442px;
+    position: relative;
+    top: -290px;
+    text-align: center;
+    left: 85px;
+}
+button{
+    width: 442px;
+    height: 74px;
+    font-size: 24px;
+    color: #706d9f;
+    border-radius: 40px;
+    background-color: white;
+}
+.end{
+    position: relative;
+    top: -265px;
+    left: -35px;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.signin{
+    color: greenyellow;
+    font-size: 18px;
+    margin: -289px auto;
+    position: relative;
+    left: 358px;
+}
